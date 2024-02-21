@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Robert Oppenheimer</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    font-size: 19px; /* Increase the font size */
+  }
+  header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  nav {
+    background-color: #444;
+    padding: 10px 0;
+    text-align: center;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+  }
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  h1, h2, h3 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+  }
+  p {
+    text-align: justify;
+    margin-bottom: 20px;
+  }
+  .image-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  @media (max-width: 600px) {
+    nav a {
+      font-size: 16px;
+    }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Robert Oppenheimer</h1>
+</header>
+<nav>
+  <a href="#biography">Biography</a>
+  <a href="#family">Family</a>
+  <a href="#Education/Scientists">Education/Scientists</a>
+  <a href="#Events,Fame,Achievements">Events,Fame,Achievements</a>
+  <a href="#Awards">Awards</a>
+  <a href="#quotes">Quotes</a> 
+  <a href="#Connections">Connections</a>
+</nav>
+<div class="container">
+  <section id="biography">
+  <h1>Julias Robert Oppenheimer</h1>
+    <p>J. Robert Oppenheimer was born April 22, 1904 and his birthplace was Manhattan, New York, USA. He has lived in various places throughout his life, including California, New Mexico, and England, and he moved because his moves were elated to his work and academic pursuits. For example, he moved to California to work at the University of California, Berkeley, and later to New Mexico for his involvement in the Manhattan Project. He passed away February 18, 1967.</p>
+    <div class="image-container">
+      <img src="JRO.jpeg" alt="Robert Oppenheimer">
+    </div>
+  </section>
+  <section id="family">
+    <h2>Family</h2>
+    <p>Oppenheimer was born to Julius Oppenheimer and Ella Friedman. He had a brother named Frank Oppenheimer, who also became a physicist. Robert Oppenheimer was married to Katherine "Kitty" Puening, Oppenheimer and had two children.</p>
+  		<img src="oh.jpeg" alt="Robert Oppenheimer">
+  </section>
+  <section id="Education/Scientists">
+    <h2>Education/Scientists</h2>
+    <p>Oppenheimer attended Harvard University,this is where he received his undergraduate degree, and then studied at the University of Cambridge and the University of Göttingen. Oppenheimer worked with many famous scientists, including Enrico Fermi and Niels Bohr. He also taught many prominent physicists, such as Richard Feynman and Murray Gell-Mann.</p>
+  </section>
+  <section id="Events,Fame,Achievements">
+    <h2>Events,Fame,Achievement</h2>
+    <p>Oppenheimer is mostly connected to the creation of the atomic bomb as the scientific director of the Manhattan Project during World War II. Oppenheimer is famous for his role in the development of the atomic bomb and for his connection to theoretical physics. Oppenheimer's work laid the foundation for nuclear physics and has had a big impact on the fields of physics and nuclear science. Oppenheimer's work on the atomic bomb had a profound impact on global politics and the course of World War II. The use of atomic weapons also grew in the nuclear age and raised awareness about the destructive power of nuclear weapons.
+  		<img src="oh2.jpeg" alt="Robert Oppenheimer">
+  </section>
+  <section id="Awards">
+    <h2>Awards</h2>
+    <p>Oppenheimer received many awards and honors, including the Enrico Fermi Award in 1963.</p>
+    <img src="oh500.jpg" alt="Robert Oppenheimer">
+  </section>
+  <section id="quotes">
+    <h2>Quotes</h2>
+    <p>"Now, I am become Death, the destroyer of worlds." - Robert Oppenheimer, quoting the Bhagavad Gita, after witnessing the first nuclear test.</p>
+    <p>"There are children playing in the streets who could solve some of my top problems in physics, because they have modes of sensory perception that I lost long ago." - Robert Oppenheimer</p>
+  </section>
+<section id="Connections">
+    <h2>Connections</h2>
+   <p>Oppenheimer's life and work underscore the ethical challenges arising from scientific progress and underscore the importance of using technology responsibly. His experiences highlight the intricate nature of human ethics and the repercussions of our decisions.</p>
+  </section>
+  <img src="oh3.jpeg" alt="Robert Oppenheimer">
+</div>
+</body>
+</html>
+
